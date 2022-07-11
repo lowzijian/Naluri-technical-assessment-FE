@@ -26,3 +26,6 @@ Run the project:
 ```sh
 npm run start
 ```
+
+### Screenshot
+![image](https://user-images.githubusercontent.com/40559529/178279208-8e97f0e7-da7d-4e59-975e-169bffff72da.png)
